@@ -19,7 +19,7 @@ npm i
 
 ## Screenshot
 
-[![EventHub](https://drive.google.com/file/d/1WYuL71QdMpou6fBUcSaadNPDdriNTTYi/view?usp=sharing)]
+![EventHub](https://drive.google.com/file/d/1WYuL71QdMpou6fBUcSaadNPDdriNTTYi/view?usp=sharing)
 
 ## License
 
