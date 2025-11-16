@@ -18,8 +18,9 @@ npm i
 ```
 
 ## Screenshot
-
-![EventHub](https://drive.google.com/file/d/1WYuL71QdMpou6fBUcSaadNPDdriNTTYi/view?usp=sharing)
+<img width="1920" height="1043" alt="1" src="https://github.com/user-attachments/assets/913c1943-30f5-46ae-861c-daba1d0b2898" />
+<img width="1920" height="1043" alt="2" src="https://github.com/user-attachments/assets/a92722d7-7446-40c9-b3c7-d319dc726f84" />
+<img width="1920" height="1041" alt="3" src="https://github.com/user-attachments/assets/b0ea0c82-8d8b-4852-835a-f4cbbe5b7e25" />
 
 ## License
 
