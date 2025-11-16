@@ -16,6 +16,31 @@ composer install
 ```
 npm i
 ```
+3. Set up .env
+```
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=<YOUR DB NAME>
+DB_USERNAME=root
+DB_PASSWORD=
+```
+4. Generate APP Key
+```
+php artisan key:generate
+```
+5. Database Migration
+```
+php artisan migrate
+```
+6. Running Vite for Prod
+```
+npm run dev
+```
+7. Local Server Run
+```
+php artisan serve
+```
 
 ## Screenshot
 <img width="1920" height="1043" alt="1" src="https://github.com/user-attachments/assets/913c1943-30f5-46ae-861c-daba1d0b2898" />
